@@ -4,7 +4,7 @@
         "details": [
             {
             "appID": "93GC67G48X.com.vedomosti.iphone",
-            "paths": [ "*" ]
+            "paths": [ "/newsline/*", "/rubrics/*" ]
             }
         ]
     },
